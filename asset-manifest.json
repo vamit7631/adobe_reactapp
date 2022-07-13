@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/adobe_reactapp/static/css/main.51609941.css",
-    "main.js": "/adobe_reactapp/static/js/main.503b0311.js",
+    "main.js": "/adobe_reactapp/static/js/main.e9ebe6e1.js",
     "static/media/Swatch_01.png": "/adobe_reactapp/static/media/Swatch_01.f3e23f80d912c164a174.png",
     "index.html": "/adobe_reactapp/index.html",
     "main.51609941.css.map": "/adobe_reactapp/static/css/main.51609941.css.map",
-    "main.503b0311.js.map": "/adobe_reactapp/static/js/main.503b0311.js.map"
+    "main.e9ebe6e1.js.map": "/adobe_reactapp/static/js/main.e9ebe6e1.js.map"
   },
   "entrypoints": [
     "static/css/main.51609941.css",
-    "static/js/main.503b0311.js"
+    "static/js/main.e9ebe6e1.js"
   ]
 }
